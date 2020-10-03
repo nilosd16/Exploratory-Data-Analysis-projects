@@ -1,4 +1,5 @@
-#PLOT 1
+###PLOT_1
+
 library("data.table")
 
 setwd("~/Desktop/datasciencecoursera/4_Exploratory_Data_Analysis/project/data")
